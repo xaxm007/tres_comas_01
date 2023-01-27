@@ -1,0 +1,13 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/usr/local/bin/python3.10",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/bin/python3",
+            "type": "pythonEnvironment"
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
