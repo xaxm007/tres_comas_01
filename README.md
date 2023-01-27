@@ -1,1 +1,2 @@
-We will do python
+We will do python and play bonk.io
+
