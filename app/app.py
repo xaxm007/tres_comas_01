@@ -12,7 +12,7 @@ def show_entry_fields():
     p7=float(e7.get())
     p8=float(e8.get())
    
-    model = joblib.load('./model_joblib_diabetes')
+    model = joblib.load('../models/rf_model')
     result=model.predict([[p1,p2,p3,p4,p5,p6,p7,p8]])
     
     if result == 0:

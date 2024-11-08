@@ -16,6 +16,6 @@
 ## ⚙️ Run Code
 
 ```bash
-cd src
+cd app
 python app.py
 ```
